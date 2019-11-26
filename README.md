@@ -1,5 +1,9 @@
 # Formulário animado com JS puro e CSS Animation
 
+### Demo
+
+![Demo](demo.gif)
+
 ## Desafios
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
@@ -9,6 +13,27 @@
 - [x] Adicionar um efeito diferente de timing para a saída do formulário
 - [x] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [x] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
+
+## :information_source: How To Use
+
+```bash
+# Clone this repository
+$ git clone https://github.com/thyagoaraujo/form-animado.git
+
+# Go into the repository
+$ cd form-animado
+
+# Run the app
+$ open index.html
+```
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/thyagoaraujo/form-animado/blob/master/LICENSE.md) for more information.
+
+---
+
+Made with ♥ by Thyago Araujo :wave: [Get in touch!](https://www.linkedin.com/in/thyagosantosaraujo/)
 
 ## Animation
 
